@@ -3,7 +3,7 @@
 #### By Nelson Wandui
 ## A website showcasing work I did during the first week of Moringa School to show my understanding of basic HTML and CSS
 ### Follow the link to navigate to my portfolio.
-Copyright information 
-[https://ennydin.github.io/indpro/] (https://github.com/EnnyDin/indpro/blob/master/README.md) 
+Copyright information (https://github.com/EnnyDin/indpro/blob/master/LICENSE)
+[https://ennydin.github.io/indpro/]
 
 
