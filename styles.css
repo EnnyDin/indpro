@@ -1,0 +1,45 @@
+h1 {
+	border-top: 2px;
+	border-bottom: 2px;
+	border-left: 2px;
+	border-right: 2px;
+	text-align: center;
+	border-width: 2px;
+	border-color: brown;
+	background-color: cadetblue;
+}
+.begin {
+	background-color: cadetblue;
+}
+.home {
+	text-align: right;
+	background-color: cyan;
+}
+.basic {
+	text-align: right;
+}
+
+
+body {
+	background-color:azure(0, 126, 126)
+}
+
+img {
+	float:right;
+}
+@media screen and (min-width: 480px) and (max-width: 1999px) {
+    body {
+        background-color:cyan
+    }
+}
+@media screen and (min-width: 720px) {
+  body {
+    background-color: azure(253, 253, 253);
+  }
+  .column {
+    width: 250px;
+    float: left;
+    padding: 15px;
+  }
+}
+  
